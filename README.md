@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### Installation
 * `npm install` (installing dependencies)
@@ -24,3 +25,6 @@
 
 ### Author
 * Author  : danny
+=======
+# angular-app-Ramit
+>>>>>>> 23cf7159b73b704c522c21a8b618be2a2edae522
